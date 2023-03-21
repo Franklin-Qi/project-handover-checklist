@@ -1,15 +1,13 @@
 
-# Checklist for handover completeness
+# 项目交接完整性检查
 
-Go through this list after one week of finished handover to check if it was successful. If some points can't be
-marked, it means that handover is still in progress. Go through it once again after one more week. Always start
-with all boxes unchecked.
+完成移交一周后查看此列表以检查它是否成功。 如果有些点不能有标记，表示交接还在进行中。 再过一周再过一遍。 总是开始取消选中所有框。
 
-- [ ] All new members have had clear tasks for past week.
-- [ ] No question asked during last week about people/contacts/roles.
-- [ ] No past tools were introduced (tools that were used in past, but not mentioned during handover).
-- [ ] No old change request appear (that was agreed before handover and never mentioned during).
-- [ ] No past communication channels were introduced (channels that were used in past, but not mentioned during handover).
-- [ ] All things that were not clear (mentioned earlier) were resolved.
-- [ ] All handover time is recorded.
-- [ ] Every new member is confident with the project. No? Ask Why.
+- [ ] 所有新成员过去一周都有明确的任务。
+- [ ] 上周没有询问有关人员/联系人/角色的问题。
+- [ ] 没有介绍过去的工具（过去使用过的工具，但在交接时没有提到）。
+- [ ] 没有出现旧的变更请求（这是在移交之前同意的，并且在移交期间从未提及）。
+- [ ] 没有引入过去的通信渠道（过去使用过的渠道，但在移交期间未提及）。
+- [ ] 所有不明确的事情（前面提到的）都已解决。
+- [ ] 记录所有交接时间。
+- [ ] 每个新成员都对这个项目充满信心。 不？ 问为什么。
