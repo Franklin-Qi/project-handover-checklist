@@ -1,12 +1,12 @@
 
-# Checklist for system handover
+# 系统交接清单
 
-- [ ] All required access (root, etc) is given to systems.
-- [ ] Environments are documented.
-- [ ] Software Licenses are documented.
-- [ ] Backups tested at least once.
-- [ ] All scripts and tools can be found from documentation or version control.
-- [ ] Process flow diagrams are created for most common cases.
-- [ ] Monitoring is documented.
-- [ ] Support and Maintenance plans include clear steps for disasters.
-- [ ] List of previous problems exist in searchable format.
+- [ ] 所有必需的访问权限（root 等）都已授予系统。
+- [ ] 环境已记录。
+- [ ] 软件许可证已记录。
+- [ ] 备份至少测试过一次。
+- [ ] 所有脚本和工具都可以从文档或版本控制中找到。
+- [ ] 流程图是为大多数常见情况创建的。
+- [ ] 监控记录在案。
+- [ ] 支持和维护计划包括针对灾难的明确步骤。
+- [ ] 以前的问题列表以可搜索的格式存在。
