@@ -1,24 +1,26 @@
 
-# Checklist for project handover
+# 项目交接清单
 
-- [ ] Handover plan created and documented.
-- [ ] Time for handover allocated.
-- [ ] Project description is in an easily accessible place.
-- [ ] Project roadmap and past progress are documented.
-- [ ] High level diagrams explained.
-- [ ] List of tools and access to them.
-- [ ] List of what was delivered.
-- [ ] What was agreed with customer.
-- [ ] Clear tasks for next week.
-- [ ] Development process description. E.g. how new features are implemented, tested, released and supported.
-- [ ] List of currently involved people and their roles (including contacts). RACI or similar table.
-- [ ] List of previously involved people, and whether it is ok to contact them.
-- [ ] All communication channels are documented.
-- [ ] New members added to corresponding communication channels: email lists, chats, recurring calls.
-- [ ] List of all change requests.
-- [ ] New members introduced to teams, clients, partners.
-- [ ] List of things that are not clear.
-- [ ] List of past big problems with customer/partners and how they solved.
-- [ ] Explained how hours should be recorded and everyone have access to project in time booking system.
-- [ ] Expected problems (scalability, security, etc) are documented.
-- [ ] Technology stack is documented in single place.
+- [ ] 已创建并记录项目交接计划。
+- [ ] 分配交接时间。
+- [ ] 项目基本信息，如项目描述、项目启动时间、启动原因等。并将这些资料位于易于访问的位置。
+- [ ] 记录项目路线图和过去的进展。
+- [ ] 高级图表解释。
+- [ ] 项目所用工具列表和访问权限。
+- [ ] 项目过程组织资产，如需求文档、设计文档、测试用例等。
+- [ ] 项目范围管理，当前的项目的业务边界是什么，如何防止范围蔓延。
+- [ ] 当前采购管理，如交付的物品清单。
+- [ ] 与客户达成一致的内容。
+- [ ] 清除下周的任务。
+- [ ] 开发过程描述。 例如如何实施、测试、发布和支持新功能。
+- [ ] 当前干系人管理，如涉及的人员及其角色（包括联系人）列表。 RACI 或类似表格。
+- [ ] 以前涉及的人员名单，以及是否可以联系他们。
+- [ ] 当前沟通管理，所有沟通渠道均已记录。
+- [ ] 新成员添加到相应的通信渠道：电子邮件列表、聊天、重复呼叫。
+- [ ] 所有变更请求的列表。
+- [ ] 新成员介绍给团队、客户、合作伙伴。
+- [ ] 不清楚的事情清单。
+- [ ] 客户/合作伙伴过去的大问题列表以及他们是如何解决的。
+- [ ] 解释了如何记录时间以及每个人都可以及时访问项目系统。
+- [ ] 预期的问题（可扩展性、安全性、主要风险等）已记录在案。
+- [ ] 技术堆栈单独记录在一个地方。比如有哪些service，每个service承担了什么业务功能，service之间如何交互等。
