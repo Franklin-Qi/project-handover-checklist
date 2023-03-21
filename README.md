@@ -1,59 +1,52 @@
-# project-handover-checklist
+# 项目交接清单
 
-## Handover
+## 移交
 
-When a new person joins a project, project members are changed, or project is moved to another team, a
-handover should be thoroughly planned and executed.
+当一个新人加入一个项目，项目成员发生变化，或者项目被转移到另一个团队时，一个移交应周密计划和执行。
 
-### Why?
+### 为什么？
 
-* Reduce handover time.
-* Make clear for everyone how handover will affect schedules/communication/budget.
-* Reduce risks of post-handover work.
-* Ensure good confidence for new members.
+* 减少交接时间。
+* 让每个人都清楚交接将如何影响日程/沟通/预算。
+* 降低移交后工作的风险。
+* 确保新成员有良好的信心。
 
-Handover is not a task, and it is not instant. Handover is always a project. Therefore it should be planned
-and executed like a project.
+交接不是一项任务，也不是即时的。 移交始终是一个项目。 所以应该计划并像一个项目一样执行。
 
-### How to use this template
+### 如何使用这个模板
 
-This template that will work for most teams. In some cases, new checkboxes may need to be added, or existing
-checkboxes removed.
+此模板适用于大多数团队。 在某些情况下，可能需要添加新的复选框，或者现有的复选框已删除。
 
-This template can be used in a physical or digital way:
+此模板可以以物理或数字方式使用：
 
-#### Physical
+#### 物理方式
 
-Print lists on paper and check items off when they are done.
+在纸上打印列表并在完成后勾选项目。
 
-#### Digital (fork)
+#### 数字方式 (fork)
 
-Fork this project and edit the source to mark completed issues with '[x]'
+fork 此项目并编辑源代码以标记已完成的问题 '[x]'  
 E.g.
-- [x] read this
-- [ ] fork project
-- [ ] plan and do handover
-- [ ] PROFIT!
+- [x] 阅读当前文件
+- [ ] fork 项目
+- [ ] 计划并进行移交
+- [ ] 好处
 
-#### Digital (copy to issue tracker)
+#### 数字方式 (拷贝到 issue 进行跟踪)
 
-Create a project in your chosen issue tracker and add tasks.
+在您选择的issue跟踪器中创建一个项目并添加任务。
 
-### Checklists
+### 清单
 
-[Project handover](cl-project.md)
+[项目交接](cl-project.md)
 
-[Code handover](cl-code.md)
+[源码交接](cl-code.md)
 
-[System handover](cl-system.md)
+[系统交接](cl-system.md)
 
-[Handover completeness](cl-completeness.md) - Used to verify if handover was successful.
+[交接完整性检查](cl-completeness.md) - 用于验证交接是否成功。
 
-### Links
+### 参考链接
 
 [Using task lists in GitHub-flavored markdown](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments)
-
-### License
-
 [Futurice](http://www.futurice.com)
-Creative Commons Attribution 4.0 International (CC BY 4.0)
