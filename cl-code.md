@@ -1,10 +1,11 @@
 
-# Checklist for code handover
+# 源码交接清单
 
-- [ ] Detailed diagrams created.
-- [ ] New team member has been able to compile, run, test, deploy code to all involved systems.
-- [ ] Code walkthrough done.
-- [ ] New member has written and deployed code to QA without supervision. It could be a bugfix or small feature.
-- [ ] New members know how and where to find information why certain design/implementation decisions are done.
-- [ ] Do pair programming for at least 1 hour (an old member with a new member).
-- [ ] Code review time is scheduled weekly.
+- [ ] 创建的详细图表。
+- [ ] gitlab、openkylin、ppa等所有代码分支的基本描述，包括分支目的、分支编译、分支是否合并等。
+- [ ] 新团队成员已经能够编译、运行、测试代码并将代码部署到所有相关系统。
+- [ ] 代码演练完成。
+- [ ] 新成员在没有监督的情况下编写并部署了代码给 QA。 它可能是错误修复或小功能。
+- [ ] 新成员知道如何以及在何处找到某些设计/实施决策为何完成的信息。
+- [ ] 进行至少 1 小时的结对编程（老成员与新成员）。
+- [ ] 代码审查时间每周安排一次。
